@@ -9,7 +9,7 @@ name: Draw with AI
 description: Supervised project of second year of IMAC engineering school (ESIPE - Gustave Eiffel University, Champs-sur-Marne, France) by Léa Rostoker, Esaïe Dago and Alaric Rougnon-Glasson, supervised by Gaétan de Robillard and Vincent Nozick.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: ./images/IMAC_square.png
 
 #
 # Flags below are optional
