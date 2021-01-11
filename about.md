@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# About us
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+This is a supervised project of second year of IMAC engineering school (ESIPE - Gustave Eiffel University, Champs-sur-Marne, France) by Léa Rostoker, Esaïe Dago and Alaric Rougnon-Glasson, supervised by Gaétan de Robillard and Vincent Nozick.
+Our goal is to create a web application that allows users to experiment drawing in collaboration with and artificial intelligence.
