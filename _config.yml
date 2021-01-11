@@ -11,7 +11,8 @@ description: Supervised project of second year of IMAC engineering school (ESIPE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
-theme: jekyll-theme-tactile
+# theme: jekyll-theme-tactile
+remote-theme : rosario/kasper 
 
 #
 # Flags below are optional
