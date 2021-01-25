@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project launch !
+title: Beginning !
 ---
 
 # Beginning of the project !
