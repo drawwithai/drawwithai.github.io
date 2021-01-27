@@ -7,6 +7,10 @@ title: Our progress
 
 We now have a network that we think might work and this is what he gave us :
 
+![First result 1](/images/image_at_epoch_0084.png)
+
+![First result 2](/images/image_at_epoch_0025.png)
+
 The corresponding image from the database was this one :
 
 Conclusion : The Generator only changes the grey levels. Thus we have to better our network which isn’t doing a good job right now.
