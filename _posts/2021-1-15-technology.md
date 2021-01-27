@@ -3,7 +3,7 @@ layout: post
 title: The technology we use
 ---
 
-##Training the network : 
+## Training the network : 
 
 <p>For this project we built a GAN (Generative Adversarial Network) using the Tensorflow API with Python. </p>
 <p>This is what our GAN looks like : </p>
@@ -18,7 +18,7 @@ Knowing this the Generator will try again and so on until the end of the trainin
 
 <p>And the Discriminator like this :</p>
 
-##Using the network : 
+## Using the network : 
 
 <p>Once we are satisfied with the results of the training of our network, we can use it. But how ?
 Basically we use Tensorflow to transform our Python model in a Javascript model so that we can use it in a website. </p>
