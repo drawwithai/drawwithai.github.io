@@ -19,6 +19,10 @@ Conclusion : The Generator only changes the grey levels. Thus we have to better 
 
 Today we changed our network a bit and this is what happened :
 
+![Encouraging result 1](/images/image_at_epoch_0026.png)
+
+![Encouraging result 2](/images/image_at_epoch_9999.png)
+
 Compared with the image from the database :
 
 Conclusion : 
